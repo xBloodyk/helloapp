@@ -12,3 +12,5 @@ def greet_black():
 
 if __name__ == "__main__":
     greet()
+    greet_white()
+    greet_black()
